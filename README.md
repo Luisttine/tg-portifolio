@@ -44,13 +44,18 @@ Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a 
 * Visual Studio Code -> Essa ferramenta foi utilizada para desenvolimento dos códigos em geral
 * Discord -> Essa ferramenta foi utilizada para meio de comunicação entre a equipe
 * GIT -> Essa ferramenta foi utilizada para controle de versão do projeto
+* Figma -> Essa ferramenta foi utilizada para desenvolvimento do Wireframe (Protótipo) do projeto
 
 
-#### Contribuições Pessoais
+# Contribuições Pessoais
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+
+### Nesse projeto atuei como Desenvolvedor Front-End, criando e estilizando as páginas Home, Ver-Mais, Admin, Projetos, Participantes, Voluntários e Forma-de-Pagamento utilizando HTML, CSS e em poucas das vezes precisei do JavaScript. Conforme foram surgindo desafios durante as entregas, tivemos muitas vezes que completar atividades além do previsto, no meu caso em específico fiquei com a parte do Front-End, porém tive também que atuar no Back-End ajudando a criar as conexões com o banco de dados utilizando PHP nas páginas, testando sua segurança também utilizando PHP para controle de acesso de usuários e login na plataforma, e também testando comandos de SQL diretamente no PHPMyAdmin. 
+### Algumas das vezes também ajudei a organizar e separar tasks para a sprint juntamente com a Master, utilizando sempre o Discord para comunicação e troca de arquivos Power Point
 
 #### Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+
 
 #### Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
