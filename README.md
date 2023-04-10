@@ -48,17 +48,35 @@ Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a 
 
 
 # Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
 ### Nesse projeto atuei como Desenvolvedor Front-End, criando e estilizando as páginas Home, Ver-Mais, Admin, Projetos, Participantes, Voluntários e Forma-de-Pagamento utilizando HTML, CSS e em poucas das vezes precisei do JavaScript. Conforme foram surgindo desafios durante as entregas, tivemos muitas vezes que completar atividades além do previsto, no meu caso em específico fiquei com a parte do Front-End, porém tive também que atuar no Back-End ajudando a criar as conexões com o banco de dados utilizando PHP nas páginas, testando sua segurança também utilizando PHP para controle de acesso de usuários e login na plataforma, e também testando comandos de SQL diretamente no PHPMyAdmin. 
+
 ### Algumas das vezes também ajudei a organizar e separar tasks para a sprint juntamente com a Master, utilizando sempre o Discord para comunicação e troca de arquivos Power Point
 
-#### Hard Skills
+
+# Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
 
+### Com todas os desafios e dificuldades que tivemos durante o meu primeiro contato com desenvolvimento web tive várias novos conhecimentos que ainda utilizo no cotidiano.
 
-#### Soft Skills
+### Consigo atuar/utilizar com autonomia:
+* HTML 
+* CSS
+* JS 
+* MySQL 
+* Metodologia Scrum
+* Visual Studio Code
+* Figma
+* GIT
+
+### Mesmo com muitos aprendizados ainda possuo certas dificuldades por falta de conhecimento nas seguintes tecnologias:
+* PHP
+* XAMP
+
+# Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+
+### Algo que aprendi com esse meu primeiro desenvolvimento web em equipe foi que dificilmente a equipe toda irá concordar e chegar na mesma conclusão sobre algo a ser implementado ou não no projeto, porém com a Soft Skill que eu pessoalmente acho mais poderosa, a comunicação, é possível sim todos se alinhar no mesmo raciocínio. Por exemplo, muitas das vezes durante o famoso Planning Poker nas estimativas de horas, tive que utilizar dessa softskill para que chegassemos em um bom senso sobre as tarefas.
 
 ### Em 2022-1
 Mesmo formato
