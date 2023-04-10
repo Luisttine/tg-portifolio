@@ -55,7 +55,6 @@ Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a 
 
 
 # Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
 
 ### Com todas os desafios e dificuldades que tivemos durante o meu primeiro contato com desenvolvimento web tive várias novos conhecimentos que ainda utilizo no cotidiano.
 
@@ -74,24 +73,5 @@ Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o n�
 * XAMP
 
 # Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
 
 ### Algo que aprendi com esse meu primeiro desenvolvimento web em equipe foi que dificilmente a equipe toda irá concordar e chegar na mesma conclusão sobre algo a ser implementado ou não no projeto, porém com a Soft Skill que eu pessoalmente acho mais poderosa, a comunicação, é possível sim todos se alinhar no mesmo raciocínio. Por exemplo, muitas das vezes durante o famoso Planning Poker nas estimativas de horas, tive que utilizar dessa softskill para que chegassemos em um bom senso sobre as tarefas.
-
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
-
-
-
-
-
-
