@@ -32,7 +32,7 @@ Caso queira saber mais, segue o link do repositório oficial: [GitHub](https://g
 ### Front-End:
 * HTML -> Essa lingugagem de marcação foi utilizada na criação das páginas do site
 * CSS -> Essa linguagem de estilização foi utilizada no tratamento de UX/UI do site
-* JS -> Essa linguagem foi utilizada para proporcionar uma maior dinamicidade no site, com um carrossel de imagens de um projeto da ONG por exemplo
+* JS -> Essa linguagem foi utilizada para proporcionar uma maior dinamicidade no site, popups de confirmação de ações do usuário por exemplo
 
 ### Ferramentas para desenvolvimento:
 * PHPMyAdmin -> Essa ferramenta foi utilizada para servir o banco de dados do site
