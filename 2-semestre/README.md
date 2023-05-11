@@ -30,7 +30,7 @@ Caso queira saber mais, segue o link do repositório oficial: [GitHub](https://g
 * PHP -> Essa linguagem foi utilizada para conversar diretamente com o banco de dados com os métodos POST e GET
 
 ### Front-End:
-* HTML -> Essa lingugagem de marcação foi utilizada na criação das páginas do site
+* HTML -> Essa linguagem de marcação foi utilizada na criação das páginas do site
 * CSS -> Essa linguagem de estilização foi utilizada no tratamento de UX/UI do site
 * JS -> Essa linguagem foi utilizada para proporcionar uma maior dinamicidade no site, popups de confirmação de ações do usuário por exemplo
 
