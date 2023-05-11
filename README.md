@@ -2,6 +2,7 @@
 
 ## Introdução
 
+<img align="right" src="https://github.com/Luisttine/tg-portifolio/blob/main/img/fotoLuis.jpeg" alt="Foto pessoal" width="150"/>
 
 #### Sou um jovem entusiasta da tecnologia, apaixonado por ter e testar pensamentos diversos aplicados em código para o auxilio, tanto no meu dia-a-dia, quanto as pessoas que vão utilizar meus meios.
 #### No ano de 2022, em março comecei a atuar no INPE como Bolsista de Iniciação Científica, agregando valor e desenvolvendo códigos para estudos de córpos d'água por imagens de satélites usando Python durante 4 meses.
