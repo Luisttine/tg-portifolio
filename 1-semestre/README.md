@@ -1,4 +1,4 @@
-* ## Em 2021-1
+## Em 2021-1
 
 Este projeto visa realizar a boa estruturação de um site para a ONG Vó Maria Felix, divulgando seu trabalho, buscando mais visibilidade para a instituição e atraindo voluntários para a ampliação de atuação.
 Tendo em vista que o problema maior do cliente era falta de visibilidade, nossa equipe buscou desenvolver um site de divulgação e cadastro de novos projetos, incrição das crianças ou de voluntários para os projetos existentes, uma página específica para doações e por último uma área para usuários admin, onde tais podem editar, excluir e ter acesso também a um manual do site.
