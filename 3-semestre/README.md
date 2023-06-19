@@ -1,4 +1,4 @@
-* ## Em 2022-1
+## Em 2022-1
 
 No terceiro semestre, o cliente foi a TecSus, uma empresa de automação empresarial.
 
