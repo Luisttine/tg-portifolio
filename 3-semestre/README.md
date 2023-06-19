@@ -48,9 +48,9 @@ Caso queira saber mais, segue o link do repositório oficial: [GitHub](https://g
 
 ## Contribuições Pessoais
 
-Nesse projeto atuei como Desenvolvedor Front-End, criando, estilizando e revisando todas páginas, mas dentre as páginas eu foquei mais nas de cadastro, tabelas para visualização e página home. Por último ainda contribui na construção dos scripts na qual geram relatórios de faltas e presenças por mês.  
+Nesse projeto atuei novamente como Desenvolvedor Front-End, assim como citado no 2º semestre, com a diferença de ter "brincado" um pouco mais com o Back-End, ajudando na geração dos PDF's como relatório final das contas cadastradas, na conexão com o banco de dados, juntamente com os formulários já cadastrando suas respectivas informações.
 
-Algumas das vezes também ajudei a organizar e separar tasks para a sprint juntamente com a Master, utilizando sempre o Discord para comunicação e troca de arquivos Power Point
+Como meus planos para o próximo semestre eram ser master, acompanhei mais de perto os passos da nossa master Julia Maria para ter uma idéia do caminho que eu deveria seguir, ajudando ela com excel para organização das tasks, desenvolvimento das User Stories e também na estimativa das tasks.
 
 
 ## Hard Skills
@@ -74,4 +74,4 @@ Mesmo com muitos aprendizados ainda possuo certas dificuldades por falta de conh
 
 ## Soft Skills
 
-Com este terceiro projeto tentei freezar para todos da equipe o que ja citei nos dois primeiros projetos, a comunicação entre os individuos e o trabalho em equipe, tendo assim uma melhora considerável sobre essas poderosas ferramentas. 
+Com este terceiro projeto aprendi mais sobre gestão de pessoas e como um bom humor pode influenciar grandemente no desenvolvimento, tanto mental quanto técnico de uma pessoa no grupo, sendo assim pude ver na prática o desempenho de cada integrante com um bom ou mal humor por exemplo.
