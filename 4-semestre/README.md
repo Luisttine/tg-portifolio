@@ -1,6 +1,4 @@
-# Em 2022-2 (4º Semestre)
-
-## Sobre o Projeto
+## Em 2022-2
 
 O cliente do projeto no quarto semestre foi a 2RP, uma empresa que traz soluções e serviços personalizados para demandas na área de TI, atuando em qualquer segmento de mercado.
 
@@ -22,41 +20,54 @@ A partir disso, como está sendo apresentado no GIF abaixo, a solução que foi 
     * **Gestor:** Possui o acesso completo da aplicação, com exceção da páginas de Usuários e Manipulação de Verbas;
     * **Colaborador:** Só tem permissão de acessar a página Home, Cadastrar de Horas, Dashboards Individuais e Histórico de Apontamentos (ele pode editar o Apontamento, porém a aprovação ou reporvação só será feita pelo gestor ou administrador).
 
-![Gif da execução do projeto](../img/4-semestre.gif)
+<img src="https://github.com/GustavoAndo/portifolio-TG/blob/main/img/4-semestre.gif" width="90%">
 
-> [Acesse o repositório no GitHub clicando aqui](https://github.com/Inodevs-4/2RP)
+Caso queira saber mais, segue o link do repositório oficial: [GitHub](https://github.com/Inodevs-4/2RP)
 
 ## Tecnologias Utilizadas
 
-* **Front-end:** 
-    - **HTML:** linguagem de marcação para a criação do site;
-    - **CSS:** linguagem para a estilização do site;
-    - **TypeScript:** linguagem de programação para a criação do site;
-    - **React:** biblioteca para desenvolvimento de interfaces gráficas em páginas web.
-* **Back-end:** 
-    - **TypeScript:** linguagem de programação para contrução do Back-End;
-    - **NodeJS:** para execução de JavaScript fora de um navegador web;
-    - **TypeORM:** ORM em TypeScript para criação da persistência de dados;
-    - **PostgreSQL:** linguagem de programação para banco de dados para pesistência de dados.
-* **Outros:** 
-    - **Figma:** ferramenta para criação do protótipo do projeto.
+### Front-end:
+  * HTML -> linguagem de marcação para a criação do site;
+  * CSS -> linguagem para a estilização do site;
+  * TypeScript -> linguagem de programação para a criação do site;
+  * React -> biblioteca para desenvolvimento de interfaces gráficas em páginas web.
+    
+### Back-end: 
+  * TypeScript -> linguagem de programação para contrução do Back-End;
+  * NodeJS -> para execução de JavaScript fora de um navegador web;
+  * TypeORM -> ORM em TypeScript para criação da persistência de dados;
+  * PostgreSQL -> linguagem de programação para banco de dados para pesistência de dados.
+    
+### Ferramentas para desenvolvimento:
+* Visual Studio Code -> Essa ferramenta foi utilizada para desenvolimento dos códigos em geral
+* Discord -> Essa ferramenta foi utilizada para meio de comunicação entre a equipe
+* GIT -> Essa ferramenta foi utilizada para controle de versão do projeto
+* Figma -> Essa ferramenta foi utilizada para desenvolvimento do Wireframe (Protótipo) do projeto
 
 ## Contribuições Pessoais
 
-No quarto projeto, sendo desenvolvedor, colaborei com minha equipe principalmente na parte do Back-End, utilizando NodeJS com TypeScript. Primeiramente, realizei a modelagem das entidades com TypeORM. Fiz a parte da persistência de dados e as operações de CRUD para os apontamentos de horas extras e de sobreavisos, além de também dar suporte para minha equipe na realização das mesmas funções para usuários, clientes, projetos e centro de resultados. Trabalhei um pouco no Front-End em React com TypeScript para realização da tela de aprovação de apontamentos e auxiliei na criação da página de Dashboards (com a biblioteca em React recharts) e geração de pdf's (com a biblioteca em JavaScript pdfJS). Além disso, implementei a autenticação no sistema, tanto no Back-End (com a biblioteca jsonwebtoken) como no Front-End (utilizando context do React) e também ajudei no nivelamento de acesso para os perfis diferentes no sistema. Por fim, o maior desafio foi a realização da integração do login com o Google OAuth 2.0, que foi uma grande novidade para mim.
+No quarto projeto, como foi um requisito do cliente, ajudei nas pesquisas e no desenvolvimento do login e criação de tokens para tal. Assim como em outros projetos, nesse também participei mais ativamente do Front-End no desenvolvimento das páginas de formulário, porém atuando também no Back-End ajudando na criação do CRUD para os cadastros.
+
 
 ## Hard Skills
 
-* **HTML5** - sei fazer com autonomia;
-* **CSS3** - sei fazer com auxílio de consultas;
-* **TypeScript** - sei fazer com auxílio de consultas;
-* **React** - sei fazer com auxílio de consultas;
-* **NodeJS** - sei fazer com autonomia;
-* **Typeorm** - sei fazer com autonomia;
-* **MySQL:** - sei fazer com autonomia.
+Com todas os desafios e dificuldades que tivemos durante o meu primeiro contato com desenvolvimento web tive várias novos conhecimentos que ainda utilizo no cotidiano.
+
+Consigo atuar/utilizar com autonomia:
+* HTML 
+* CSS
+* React
+* NodeJS 
+* Typeorm
+* MySQL
+* TypeScript
+
+Mesmo com muitos aprendizados ainda possuo certas dificuldades por falta de conhecimento nas seguintes tecnologias:
+* Java (Consigo utilizar com auxilio de pesquisas)
+* Java Script (Consigo utilizar com auxilio de pesquisas)
+* Spring (Consigo utilizar com auxiilio de pesquisas)
+
 
 ## Soft Skills
 
-* **Comunicação:** com uma equipe com 8 integrantes, uma boa comunicação para todos se interarem com o andamento do projeto foi essencial para a entrega das sprints;
-* **Proatividade:** para trabalhar com tecnologias novas (TypeScript, NodeJs e React), tanto no front-end e back-end, foi necessário proatividade para aprender as linguagens e realizar as tarefas com sucesso;
-* **Organização:** com maior número de pessoas no time, a organização das atividades foi imporante para entregar tudo o que foi proposto para as sprints.
+Atuando como Master da equipe, pude aprender a lidar melhor com as pessoas e também como gerenciá-las melhor, seja em uma conversa sobre alguma task e suas dificuldades, ou até mesmo fazendo algum tipo de cobrança ou aviso sobre a data de entrega de certas tasks.
