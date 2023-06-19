@@ -1,4 +1,4 @@
-* ## Em 2021-2
+## Em 2021-2
 
 Neste segundo projeto, foi o primeiro com uma empresa parceira, a JetSoft, uma empresa de software que oferece serviços e produtos a outros clientes.
 
