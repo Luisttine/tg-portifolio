@@ -6,11 +6,12 @@
 
 #### Sou um jovem entusiasta da tecnologia, apaixonado por ter e testar pensamentos diversos aplicados em código para o auxilio, tanto no meu dia-a-dia, quanto as pessoas que vão utilizar meus meios.
 #### No ano de 2022, em março comecei a atuar no INPE como Bolsista de Iniciação Científica, agregando valor e desenvolvendo códigos para estudos de córpos d'água por imagens de satélites usando Python durante 4 meses.
-#### Depois da bolsa de I.C., ainda em 2022, no final de julho, passei no processo seletivo de estágio da Johnson & Johson, e atualmente (abril de 2023) completando mais ou menos 9 meses de empresa, atuando como Estagiário em Análise de Dados desenvolvendo códigos em Python e SQL para analisar dados de vendas das empresas parceiras e aplicando uma série de tratamentos padrões para exibir os dados requeridos pelos clientes.
+#### Depois da bolsa de I.C., ainda em 2022, no final de julho, passei no processo seletivo de estágio da Johnson & Johson, completando mais ou menos 12 meses de empresa (julho-2022 até julho-2023), atuando como Estagiário em Egenharia de Dados desenvolvendo códigos em Python e SQL para analisar dados de vendas das empresas parceiras e aplicando uma série de tratamentos padrões para exibir os dados requeridos pelos clientes. 
+#### Recentemente houve uma separação de empresas dentro da J&J, surgindo a Kenvue, como produtora dos produtos voltados para o consumidor, como baby shampoo, sundown, listerine, entre outros... Porém, mesmo com essa separação eu fui migrado para essa nova empresa permanecendo na mesma área de atuação de quando comecei o estágio, em Egenharia de Dados, prolongando assim o contrato de estágio.
 
 # Contatos
 * [GitHub](https://www.github.com/Luisttine)
-* [LinkedIn](https://www.linkedin.com/luís-souza)
+* [LinkedIn](https://www.linkedin.com/luishfsouza)
 
 ## Meus Principais Conhecimentos
 
@@ -25,4 +26,4 @@
 | [3º Semestre](./3-semestre/README.md) | Sistema para armazenar, consultar e processar contas de água, energia e gás |
 | [4º Semestre](./4-semestre/README.md) | Plataforma web para controle de jornada de trabalho de hora extras e sobreavisos |
 | [5º Semestre](./5-semestre/README.md) | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
-| [6º Semestre](./6-semestre/README.md) | |
+| [6º Semestre](./6-semestre/README.md) | Aplicação para recrutamento de candidatos para vagas de empresas |
