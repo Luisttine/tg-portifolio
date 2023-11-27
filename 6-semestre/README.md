@@ -20,7 +20,7 @@ Assim, a partir da proposta e requisitos solicitados pela empresa, a solução i
 
 Segue abaixo o GIF com a demonstração das funcionalidades descritas anteriormente:
 
-![Gif da execução final ainda não está disponível...]()
+![Gif da execução](https://github.com/GustavoAndo/portifolio-TG/blob/main/img/6-semestre.gif)
 
 Caso queira saber mais, segue o link do repositório oficial: [GitHub](https://github.com/Inodevs-6/Inodevs-doc)
 
